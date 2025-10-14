@@ -3,6 +3,7 @@ Analyzes Home Mortgage Disclosure Act Data to find inequalities in mortgage lend
 
 Includes:
   UROP Poster - Final poster presented at symposium. Includes major findings, graphs, and explanations.
-  Analysis - STATA .do file
+  An Excel file used to create graphs for the poster
+  Analysis - STATA .do files
 
 Data files are too large to upload.
